@@ -139,8 +139,6 @@ Busco transformar informação em inteligência analítica, utilizando dados par
 
 # 🤝 Contato
 
-Se você quiser discutir o projeto ou oportunidades:
-
 * LinkedIn: *www.linkedin.com/in/ricardosouzasilva*
 * Email: *r2d2ss@bol.com.br*
 
